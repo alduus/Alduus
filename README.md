@@ -14,7 +14,7 @@ Soy un estudiante de **Ingeniería en Inteligencia Artificial** Me gusta trabaja
 </p>
 
 <p align="center">
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alduus&layout=compact&theme=dark)
+    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alduus&layout=compact&theme=dark)
 </p>
 
 

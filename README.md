@@ -1,8 +1,8 @@
 <h1 align="center">¡Hi!, I'm Aldo</h1>
 
-<!-- <p align="center">
+<p align="center">
   <img src="https://github.com/alduus/Alduus/blob/main/banner.png" alt="Banner Personal" width="100%"> 
-</p>  -->
+</p> 
 
 
 Soy un estudiante de **Ingeniería en Inteligencia Artificial** Me gusta trabajar en proyectos que combinen **salud, tecnología y accesibilidad**. Actualmente, estoy desarrollando aplicaciones con IA para mejorar la experiencia de los usuarios en museos, asistir a personas con discapacidad visual y optimizar sistemas.

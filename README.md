@@ -1,7 +1,7 @@
 <h1 align="center">¡Hi!, I'm Aldo</h1>
 
 <p align="center">
-  <img src="https://github.com/alduus/Alduus/blob/main/banner1.png" alt="Banner Personal" width="100%"> 
+  <img src="https://github.com/alduus/Alduus/blob/main/banner1.gif" alt="Banner Personal" width="100%"> 
 </p> 
 
 

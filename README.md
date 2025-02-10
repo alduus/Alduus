@@ -4,12 +4,12 @@
   <img src="https://github.com/alduus/Alduus/blob/main/banner1.gif" alt="Banner Personal" width="100%"> 
 </p> 
 
-## 🚀 About Me
+## About Me
 Soy estudiante de **Ingeniería en Inteligencia Artificial**. Me apasiona trabajar en proyectos que combinan **salud, tecnología y accesibilidad**. Actualmente, estoy desarrollando aplicaciones con **IA** para mejorar la experiencia de los usuarios en museos, asistir a personas con discapacidad visual y optimizar sistemas.
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 <p align="center">
   <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
@@ -23,14 +23,14 @@ Soy estudiante de **Ingeniería en Inteligencia Artificial**. Me apasiona trabaj
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alduus&layout=compact&theme=dark" alt="Top Langs">
 </p>
 
 ---
 
-## 📬 Connect with Me
+## Connect with Me
 <p align="center">
   <a href="https://github.com/alduus" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" />

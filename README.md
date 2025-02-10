@@ -5,7 +5,7 @@
 </p> 
 
 ## About Me
-Soy estudiante de **Ingeniería en Inteligencia Artificial**. Me apasiona trabajar en proyectos que combinan **salud, tecnología y accesibilidad**. Actualmente, estoy desarrollando aplicaciones con **IA** para mejorar la experiencia de los usuarios en museos, asistir a personas con discapacidad visual y optimizar sistemas.
+I'm a student of Engineering in Artificial Intelligence. I'm passionate about working on projects that combine health, technology, and accessibility. Currently, I'm developing applications with AI to enhance the user experience in museums, assist people with various disabilities, and optimize systems.
 
 ---
 

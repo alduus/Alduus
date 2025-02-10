@@ -1,4 +1,4 @@
-<h1 align="center">👋 ¡Hola!</h1>
+<h1 align="center">¡Hi, I'm Aldo!</h1>
 
 <!-- <p align="center">
   <img src="https://github.com/alduus/Alduus/blob/main/banner.png" alt="Banner Personal" width="100%"> 

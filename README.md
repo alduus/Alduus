@@ -1,4 +1,4 @@
-<h1 align="center">Hi! I'm Aldo 👋</h1>
+<h1 align="center">Hi! I'm Aldo </h1>
 
 <p align="center">
   <img src="https://github.com/alduus/Alduus/blob/main/banner1.gif" alt="Banner Personal" width="100%"> 
@@ -15,13 +15,6 @@ I'm a student of Engineering in Artificial Intelligence. I'm passionate about wo
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
   <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
-</p>
-
----
-
-## GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alduus&layout=compact&theme=dark" alt="Top Langs">
 </p>
 
 ---
